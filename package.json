@@ -1,0 +1,19 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "an inventory storefront project tying mysql and node together",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mbyron13/bamazon.git"
+  },
+  "author": "Mike B",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mbyron13/bamazon/issues"
+  },
+  "homepage": "https://github.com/mbyron13/bamazon#readme"
+}
